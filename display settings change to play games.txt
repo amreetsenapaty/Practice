@@ -1,0 +1,30 @@
+Disable intel turbo boost in bios.. you'll be able to play all these games at 1080p low to mid settings on the radeon 530 using driver 18.7.1. Turbo boost will most likely cause thermal throttling thus reducing performance when gaming.?
+
+1
+
+
+Luke Peters
+Luke Peters
+2 weeks ago
+dude. first person to suggest this. my laptop can't play anything and i keep wondering why. i remember now why i disabled turbo boost in my pc i built. thank you.?
+
+
+
+Rishabh Adhikari
+Rishabh Adhikari
+1 week ago (edited)
+I have a laptop with 4gb amd radeon 530 8gigs of ram.. Will doing this help me??
+
+
+
+Nirmal Roopun
+Nirmal Roopun
+1 week ago
++Rishabh Adhikari go to bios disable turbo boost...if you can't find the settings in the hp BIOS go to windows control panel.. power options..edit power plan..look for max cpu performance and set it to 99% instead of 100% restart the laptop. Turbo boost will be disabled.?
+
+
+
+Rishabh Adhikari
+Rishabh Adhikari
+1 week ago
++Nirmal Roopun OK I'll surely try this thank you!?
